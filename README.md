@@ -1,5 +1,5 @@
 # Fnord News Show
-Übersicht aller "Fnord News Show" Episoden von 2009 bis heute.
+Übersicht aller "Fnord News Show" Episoden von 2003 bis heute.
 
 ---
 ### Gebaut durch die [google-youtube-video-wall](https://github.com/GoogleWebComponents/google-youtube-video-wall)
