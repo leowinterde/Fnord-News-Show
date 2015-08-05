@@ -1,6 +1,6 @@
 # Fnord News Show
 Übersicht aller "Fnord News Show" Episoden von 2003 bis heute.
-https://www.youtube.com/playlist?list=PL68XsaMMipf07AZrnPvUbWJcWlq6pwauo
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL68XsaMMipf07AZrnPvUbWJcWlq6pwauo)
 
 ---
 ### Gebaut durch die [google-youtube-video-wall](https://github.com/GoogleWebComponents/google-youtube-video-wall)
